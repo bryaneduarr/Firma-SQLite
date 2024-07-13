@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firma_SQLite</string>
+    <string name="firmaTextView">Ingrese su firma digital</string>
+    <string name="guardarButton">Guardar</string>
+    <string name="verFirmasButton">Ver firmas</string>
+    <string name="regresarButton">Regresar</string>
+</resources>
